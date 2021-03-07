@@ -1,0 +1,7 @@
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\obj\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.csprojAssemblyReference.cache
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\obj\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\bin\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.exe.config
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\bin\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.exe
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\bin\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.pdb
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\obj\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.exe
+C:\Users\stalh\source\repos\BenzersizSayiYazdirmaOdev.ConsolApp\BenzersizSayiYazdirmaOdev.ConsolApp\obj\Debug\BenzersizSayiYazdirmaOdev.ConsolApp.pdb
